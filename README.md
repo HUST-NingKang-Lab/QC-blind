@@ -4,7 +4,7 @@ In this study, we have attempted to address these issues, by designing more accu
 
 
 Functions & Commands
-
+===========
 
 ##classification
 
@@ -44,7 +44,7 @@ $ python coverage_percent.py
 
 
 Tools used to make this:
-
+===========
 
 Parallel_Meta
 
